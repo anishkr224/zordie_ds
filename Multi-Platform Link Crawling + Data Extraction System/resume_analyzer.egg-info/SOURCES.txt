@@ -1,0 +1,7 @@
+README.md
+setup.py
+resume_analyzer.egg-info/PKG-INFO
+resume_analyzer.egg-info/SOURCES.txt
+resume_analyzer.egg-info/dependency_links.txt
+resume_analyzer.egg-info/requires.txt
+resume_analyzer.egg-info/top_level.txt

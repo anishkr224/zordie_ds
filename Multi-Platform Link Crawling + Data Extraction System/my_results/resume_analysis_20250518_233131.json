@@ -1,0 +1,46 @@
+{
+    "final_score": 64.25,
+    "grade": "D",
+    "grade_description": "Fair",
+    "component_scores": {
+        "github": 76.5,
+        "leetcode": 67.0,
+        "certifications": 40,
+        "design": 47.0,
+        "resume": 90.0,
+        "linkedin": 62.0
+    },
+    "weights": {
+        "github": 0.3,
+        "leetcode": 0.2,
+        "certifications": 0.2,
+        "design": 0.1,
+        "resume": 0.1,
+        "linkedin": 0.1
+    },
+    "importance_levels": {
+        "github": "Critical",
+        "leetcode": "High",
+        "certifications": "High",
+        "design": "Medium",
+        "resume": "Medium",
+        "linkedin": "Medium"
+    },
+    "explanations": {
+        "github": "Github Score: 76.5/100 (Grade C)\nImportance: Critical\nImpact: 30.0% of final score\nThis indicates good Technical implementation skills.",
+        "leetcode": "Leetcode Score: 67.0/100 (Grade D)\nImportance: High\nImpact: 20.0% of final score\nThis indicates fair Algorithmic problem-solving.",
+        "certifications": "Certifications Score: 40.0/100 (Grade F)\nImportance: High\nImpact: 20.0% of final score\nThis indicates needs improvement Professional qualifications.",
+        "design": "Design Score: 47.0/100 (Grade F)\nImportance: Medium\nImpact: 10.0% of final score\nThis indicates needs improvement Creative capabilities.",
+        "resume": "Resume Score: 90.0/100 (Grade A)\nImportance: Medium\nImpact: 10.0% of final score\nThis indicates excellent Professional presentation.",
+        "linkedin": "Linkedin Score: 62.0/100 (Grade D)\nImportance: Medium\nImpact: 10.0% of final score\nThis indicates fair Professional networking."
+    },
+    "strengths": [
+        "Strong professional presentation (90.0/100)"
+    ],
+    "areas_for_improvement": [
+        "Improve algorithmic problem-solving (currently 67.0/100)",
+        "Improve professional qualifications (currently 40.0/100)",
+        "Improve creative capabilities (currently 47.0/100)",
+        "Improve professional networking (currently 62.0/100)"
+    ]
+}

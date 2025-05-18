@@ -1,0 +1,77 @@
+{
+  "resume_score": {
+    "score": 85,
+    "deductions": [
+      "Very long paragraph detected",
+      "Resume content is too verbose"
+    ]
+  },
+  "platform_scores": {
+    "LinkedIn": {
+      "score": 0,
+      "deductions": [
+        "Incomplete LinkedIn profile",
+        "Limited skill endorsements"
+      ]
+    },
+    "GitHub": {
+      "score": 70,
+      "deductions": [
+        "Low repository count",
+        "Low number of stars"
+      ]
+    }
+  },
+  "trustworthiness_flags": [],
+  "recommendations": [
+    "Resume: Very long paragraph detected",
+    "Resume: Resume content is too verbose",
+    "LinkedIn: Incomplete LinkedIn profile",
+    "LinkedIn: Limited skill endorsements",
+    "GitHub: Low repository count",
+    "GitHub: Low number of stars"
+  ],
+  "overall_score": 53.5,
+  "explanations": {
+    "overall_explanation": "The overall score of 53.5/100 is based on several factors:\n- Resume format score: 85/100\n- Platform scores:\n  * LinkedIn: 0/100\n  * GitHub: 70/100\n- No trustworthiness issues found\n\nThis score indicates that significant improvements are needed across multiple areas.",
+    "resume_explanation": "The resume format score is 85/100.\n\nIssues found:\n- Very long paragraph detected\n- Resume content is too verbose\n\nThe resume format is good but could use some minor improvements.",
+    "platform_explanations": {
+      "LinkedIn": "The LinkedIn profile score is 0/100.\n\nIssues found:\n- Incomplete LinkedIn profile\n- Limited skill endorsements\n\nThe LinkedIn profile needs significant improvement to be competitive.",
+      "GitHub": "The GitHub profile score is 70/100.\n\nIssues found:\n- Low repository count\n- Low number of stars\n\nThe GitHub profile is good but could use some improvements."
+    },
+    "trust_explanation": "No trustworthiness issues were found. The resume and profiles appear to be consistent and trustworthy."
+  },
+  "raw_data": {
+    "resume_data": {
+      "text": "Durga Katreddi\nMaster of Science in Data Science, University of North Texas (3.8 GPA)\n+1 917-400-7205 |katreddisrisaidurga@gmail.com |linkedin.com/in/sri-sai-durga-katreddi- |github.com/KATREDDIDURGA\nSUMMARY\n\u2022Innovative AI Engineer and Data Scientist with 5+ years of experience architecting and implementing\ncutting-edge AI solutions that drive substantial business value.\n\u2022Demonstrated expertise in developing and deploying advanced machine learning systems, including\nLLM-powered applications, predictive analytics models, and RAG pipelines that have reduced operational\ncosts by 22% and generated $12M in annual savings.\n\u2022Skilled in full AI development lifecycle from research to production, combining deep technical knowledge of\ngenerative AI, neural networks, and MLOps with strong business acumen.\n\u2022Proven track record of transforming siloed enterprise data into actionable intelligence through AI-enhanced\ndashboards and automated workflows, enabling data-driven decision making and significant improvements\nin efficiency.\n\u2022Adept at leveraging diverse technologies including PyTorch, TensorFlow, AWS, and Kubernetes to build\nscalable, production-grade AI systems that solve complex business challenges.\nSKILLS\n\u2022Machine Learning & AI : Generative AI (VAEs, GANs, Diffusers, Stable Diffusion), Large Language Models\n(GPT-4, LLaMA, Mistral, Falcon), Retrieval-Augmented Generation (RAG), Prompt Engineering,\nFine-Tuning (LoRA, QLoRA, PEFT), AI Agents (AutoGen, CrewAI, BabyAGI), Neural Networks, Computer\nVision, Natural Language Processing, Reinforcement Learning, Model Evaluation & Optimization\n\u2022Data Science & Analytics : Predictive Modeling, Time-Series Forecasting, Anomaly Detection, Clustering\n(K-Means, Hierarchical), Classification (Logistic Regression, Random Forest, XGBoost), Ensemble Methods,\nStatistical Analysis, Customer Segmentation, Risk Assessment, Portfolio Analytics\n\u2022Programming & Development : Python, SQL, NoSQL, Java, PyTorch, TensorFlow, Keras, Hugging Face\nTransformers, LangChain, LlamaIndex, Flask, Django, Streamlit, Docker, Kubernetes, MLOps, Web\nApplications\n\u2022Big Data & Cloud : Hadoop, Spark (PySpark), AWS (S3, Redshift, EMR, EC2), Azure, Vector Databases\n(FAISS, Pinecone, ChromaDB), MongoDB, ETL Pipeline Optimization, Cloud-Based Solutions\n\u2022AI Ethics & Safety : Fairness Assessment, Model Interpretability (InterpretML), Adversarial Robustness,\nBias Detection, Responsible AI Development\n\u2022Data Visualization : Tableau, Matplotlib, Seaborn, Power BI, Plotly, Interactive Dashboards, Executive\nReporting\n\u2022Software Engineering : MLOps, CI/CD Pipelines, API Integration, Version Control (Git), Agile\nMethodologies, Scalable System Architecture, Model Deployment, FastAPI, Flask\n\u2022Optimization Tools : DeepSpeed, vLLM, Flash Attention, Triton, Optuna, Ray Tune, Hyperopt\n\u2022Cross-Functional Collaboration : Stakeholder Communication, Business Strategy, Technical\nDocumentation, Process Improvement, Enterprise Integration\nEXPERIENCE\nBank of America January 2024 \u2013 Present\nSoftware Developer AI Texas, USA\n\u2022Implemented LangChain-based AI agents for automating KYC workflows, reducing manual verification processes by\n70% while ensuring regulatory compliance\n\u2022Developed multi-agent systems using Hugging Face Transformers for document analysis, incorporating\nstate-of-the-art vision models for accurate identity verification\n\u2022Engineered privacy-preserving biometric verification systems that reduced onboarding time by 65% while complying\nwith global data protection regulations\u2022Integrated LangGraph for orchestrating stateful multi-agent systems that handle complex KYC decision flows with\nexplainable AI capabilities\n\u2022Built RAG (Retrieval Augmented Generation) frameworks using Chroma vector database to provide contextual\nregulatory knowledge to AI systems\n\u2022Implemented comprehensive LLMOps monitoring with Weights & Biases to ensure model performance and security\nin production\n\u2022Designed sandboxing mechanisms for AI agents to prevent security vulnerabilities while allowing automated\nprocessing\n\u2022Deployed static machine learning models with proper governance to prevent automated retraining without human\noversight, meeting regulatory requirements\nUniversity of North Texas August 2023 \u2013 December 2023\nStudent Assistant Texas, USA\n\u2022Developed a demonstration project leveraging GPT-3.5 and CLIP to create an interactive learning tool that helped\nstudents visualize relationships between text prompts and generated images.\n\u2022Built and maintained a benchmark testing environment for comparing LLaMA 2, Mistral 7B, and Falcon model\nperformances, which became a core resource for the department\u2019s AI curriculum.\n\u2022Helped professor design and implement a practical course project where students fine-tuned Stable Diffusion models\non domain-specific datasets, resulting in 5 exceptional student projects.\n\u2022Created and presented a technical seminar on the architecture and capabilities of GitHub Copilot and CodeLlama,\ndemonstrating practical applications to professors.\n\u2022Presented findings from student projects at the department\u2019s monthly internal seminar, highlighting innovative\napplications of Whisper and AudioLM for speech recognition tasks.\n\u2022Assisted students in troubleshooting and optimizing their implementations of multimodal models including\nGPT-4V and ImageBind, improving project completion rate from 70% to 95%.\n\u2022AI Ethics & Safety \u2013 Ensured fairness and robustness with tools like AI Fairness 360, InterpretML, Adversarial\nRobustness Toolbox.\n\u2022Retrieval-Augmented Generation (RAG) \u2013 Built AI systems integrating FAISS, Pinecone, ChromaDB, LangChain,\nLlamaIndex for improved retrieval.\n\u2022LLM Evaluation & Optimization \u2013 Benchmarked and optimized LLMs using DeepSpeed, vLLM, Flash Attention,\nTriton, reducing inference costs.\n\u2022Collaborated with professor to develop a comparative analysis of DALL-E 2 and Midjourney outputs, which was\nincorporated into the department\u2019s introduction to AI ethics curriculum.\nCognizant(American Express) December 2020 \u2013 December 2022\nSoftware Engineer with Machine Learning India\n\u2022Developed and deployed an XGBoost model to predict default risk for small business credit card holders,\ninfluencing $6M+ in pre-tax income gains and enhancing risk management strategies.\n\u2022Improved default prediction accuracy by 5% using a stacking ensemble model, achieving a 150-basis-point Gini lift\nand capturing more high-risk defaulters through focused analysis of unstructured data using Python and\nScikit-learn.\n\u2022Productionized a default risk model for 1.5M+ monthly cardholders, enabling real-time decision-making for credit\nlimits, case setups, and promotional offers using AWS and Flask.\n\u2022Architected a scalable modeling pipeline using Hadoop and AWS, optimizing ETL workflows and reducing model\ntraining time by 30%.\n\u2022Engineered customer segmentation models using K-Means and Hierarchical Clustering, improving targeted\nmarketing strategies and increasing customer retention by 15%.\n\u2022Built classification models (Logistic Regression, Random Forest, XGBoost) to predict customer churn and default\nprobabilities, achieving 88% accuracy and providing stakeholders with actionable insights.\n\u2022Designed interactive dashboards in Tableau and Matplotlib to visualize default risk trends, customer churn, and\nportfolio performance, improving executive decision-making.\n\u2022Automated reporting workflows, reducing manual effort by 10+ hours per month and enhancing operational\nefficiency through continuous integration (CI) practices and effective version control strategies using Git.\n\u2022Leveraged NLP techniques to analyze customer sentiment, driving a 15% improvement in customer satisfaction\nscores through proactive insights.\n\u2022Presented data-driven insights to senior leadership, aligning AI-driven risk assessments with business objectives and\ncontributing to literature reviews on AI methodologies.UJR Corporate Solutions Pvt. Ltd. August 2019 \u2013 November 2020\nData/Decision Scientist India\n\u2022Engineered a 100-day historical data processing pipeline in MongoDB, implementing profile-based imputation that\naveraged three years of historical patterns to ensure 30% improvement in data completeness and quality.\n\u2022Developed sophisticated anomaly detection methods to identify outliers across large-scale financial datasets,\nreducing forecasting errors by 25% while ensuring compliance with financial standards using Python and NumPy.\n\u2022Created specialized machine learning models including ARIMA, LSTM, CNN, and XGBoost to capture different\nmarket behaviors across 3 market segments using TensorFlow and scikit-learn.\n\u2022Implemented an ensemble model architecture that dynamically weighted predictions based on market conditions,\nimproving forecast accuracy by 15% for critical financial indicators.\n\u2022Implemented an ensemble model to aggregate predictions from 24 models, increasing forecast accuracy by 15%,\nleading to more precise financial and market predictions using XGBoost.\n\u2022Optimized MongoDB query performance through compound indexing and aggregation pipelines, reducing data\nretrieval times by 60% and enabling real-time dashboard visualizations.\n\u2022Designed a RESTful Flask API with stateless architecture for seamless dashboard integration, reducing manual\nintervention by 40% and supporting horizontal scaling as user traffic increased.\n\u2022Implemented comprehensive error handling and logging systems that increased pipeline reliability from 92% to\n99.7% completion rate for daily processing tasks.\nPROJECTS\nAI System for Financial Anomaly Detection\n\u2022Built an end-to-end anomaly detection system using Python, FastAPI, and PyTorch, deployed on Azure for\nreal-time performance monitoring.\n\u2022Integrated NoSQL (MongoDB) and SQL databases for data storage, enabling scalable analytics for structured\nand unstructured financial datasets.\n\u2022Implemented robust CI/CD pipelines and containerized services using Docker and Kubernetes.\nAI Powered Contract Reader:\n\u2022Developed an AI-powered contract reading and summarization system leveraging LLMs (GPT-4, Claude),\nRetrieval-Augmented Generation (RAG), and LangChain, enabling efficient extraction and summarization of\nkey legal terms from complex contracts.\n\u2022Integrated vector databases (FAISS/ChromaDB) to store and retrieve document embeddings, improving the\nspeed and accuracy of legal document analysis while reducing manual review time by over 50\nAI-Powered Pronunciation Feedback Generator using Whisper and DeepSeek:\n\u2022Developed an AI-based pronunciation practice system using Whisper for speech-to-text processing and\nDeepSeek for language modeling, providing real-time feedback on pronunciation accuracy to enhance fluency.\n\u2022Integrated AI Agents to analyze pronunciation patterns, delivering personalized suggestions for improvement\nand enabling a more interactive and effective language learning experience.\nAI-Powered Health Checkup:\n\u2022Developed a Streamlit-based Medical Report Assistant that extracts text and tables from PDFs using\npdfplumber, generates personalized medical suggestions using LangChain (integrating ChatOpenAI, FAISS,\nand HuggingFaceEmbeddings), and implements secure user authentication via session state management.\n\u2022Leveraged Python, OpenAI GPT-4, PySpark, Pandas, and AWS to streamline the extraction, analysis, and\nrecommendation process, improving efficiency in generating health insights from medical reports.\nAlternative Health Recommendation RAG Model:\n\u2022Developed a Streamlit-based Health Chatbot that integrates FAISS retrieval, Hugging Face embeddings, and\nOllama\u2019s LLaMA3.1 model to provide medical insights from novel, published, peer-reviewed research\npublications.\nWild Fire Prediction:\n\u2022Predicted wildfire hotspots using LSTM, Attention, and Transformer models, improving forecast accuracy by\n20\nBrain Tumor Image Classification:\u2022Developed a CNN-based brain tumor detection model using TensorFlow, Keras, OpenCV, NumPy, and\nScikit-learn.\nTableau - Sales Insights Dashboard:\n\u2022Designed and implemented an interactive Tableau dashboard analyzing 93.62M in revenue across 13 Indian\nmarkets, showcasing expertise in data visualization, SQL database integration, sales metrics tracking, market\nsegmentation analysis, and customer revenue profiling.\n\u2022Identified top-performing products and key accounts to optimize sales strategies and business decisions.",
+      "urls": [
+        "https://linkedin.com/in/sri-sai-durga-katreddi-",
+        "https://github.com/KATREDDIDURGA"
+      ],
+      "format_issues": [
+        "Very long paragraph detected"
+      ]
+    },
+    "profile_data": [
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/sri-sai-durga-katreddi-",
+        "metrics": {
+          "profile_completeness": 0,
+          "connection_count": null,
+          "endorsements": {}
+        }
+      },
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/KATREDDIDURGA",
+        "metrics": {
+          "repos_count": null,
+          "stars": null,
+          "followers": null,
+          "contributions": null
+        }
+      }
+    ]
+  }
+}
