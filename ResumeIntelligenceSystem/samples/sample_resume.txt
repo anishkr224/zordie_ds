@@ -1,0 +1,55 @@
+# John Doe
+johndoe@email.com | (123) 456-7890 | linkedin.com/in/johndoe | github.com/johndoe
+
+SUMMARY
+Experienced software engineer with 5 years of experience in full-stack development, specializing in Python, JavaScript, and cloud technologies. Passionate about building scalable applications and implementing machine learning solutions.
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University, Stanford, CA
+Graduation: May 2018
+
+Bachelor of Science in Computer Engineering
+University of California, Berkeley, CA
+Graduation: June 2016
+
+WORK EXPERIENCE
+Senior Software Engineer
+Tech Solutions Inc., San Francisco, CA
+July 2020 - Present
+• Developed and maintained RESTful APIs using Flask and Django, improving response time by 30%
+• Implemented CI/CD pipelines using Jenkins and Docker, reducing deployment time by 50%
+• Led a team of 5 engineers in developing a machine learning-based recommendation system
+• Optimized database queries in PostgreSQL, resulting in 40% faster data retrieval
+
+Software Engineer
+Innovate Systems, San Jose, CA
+August 2018 - June 2020
+• Built responsive web applications using React.js and Node.js
+• Collaborated with data scientists to integrate ML models into production systems
+• Implemented authentication and authorization using OAuth 2.0 and JWT
+• Participated in code reviews and mentored junior developers
+
+PROJECTS
+Smart Home Automation System
+• Developed a home automation system using Raspberry Pi, Python, and MQTT protocol
+• Implemented voice recognition using TensorFlow and integrated with Google Assistant API
+• Created a mobile app using React Native for remote control and monitoring
+
+E-commerce Analytics Dashboard
+• Built a real-time analytics dashboard using React, D3.js, and WebSockets
+• Implemented data processing pipelines using Apache Kafka and Spark
+• Designed and optimized MongoDB schema for storing user behavior data
+
+SKILLS
+Programming Languages: Python, JavaScript, Java, C++, SQL
+Web Technologies: HTML5, CSS3, React.js, Node.js, Express.js, Django, Flask
+Databases: PostgreSQL, MongoDB, Redis, MySQL
+Cloud Services: AWS (EC2, S3, Lambda), Google Cloud Platform, Docker, Kubernetes
+Tools: Git, Jenkins, JIRA, Confluence, Postman
+Machine Learning: TensorFlow, PyTorch, scikit-learn, NLP
+
+CERTIFICATIONS
+AWS Certified Solutions Architect - Associate
+Google Cloud Professional Data Engineer
+Microsoft Certified: Azure Developer Associate
