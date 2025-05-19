@@ -1,0 +1,76 @@
+{
+  "candidate_name": "Aparna Mondal",
+  "analysis_date": "2025-05-18",
+  "hr_analysis": {
+    "summary": "Strong candidate with good potential and some areas for growth",
+    "detailed_analysis": {
+      "strengths": [
+        "Well-presented professional background: 80.0/100"
+      ],
+      "areas_for_improvement": [
+        "Technical implementation skills need strengthening: 0.0/100",
+        "Problem-solving skills could be improved: 0.0/100"
+      ],
+      "recommendations": [
+        "Contribute to open-source projects",
+        "Build portfolio projects",
+        "Document code thoroughly",
+        "Practice algorithmic problems regularly",
+        "Participate in coding competitions",
+        "Focus on optimization techniques"
+      ],
+      "score_explanations": {
+        "github_score": "Limited GitHub presence or project complexity",
+        "leetcode_score": "Needs improvement in coding challenges",
+        "cert_score": "Good mix of relevant certifications",
+        "design_score": "Good visual and organizational capabilities",
+        "resume_score": "Well-presented professional background",
+        "linkedin_score": "Basic professional social presence"
+      }
+    },
+    "hiring_insights": {
+      "overall_assessment": "Mid-Senior Level - Strong candidate with proven expertise",
+      "technical_competency": "Basic technical skills requiring further development",
+      "growth_potential": "Moderate growth potential requiring structured development",
+      "hiring_recommendation": "Recommended - Consider for technical roles with growth opportunities"
+    }
+  },
+  "original_analysis": {
+    "resume_score": {
+      "score": 80,
+      "deductions": [
+        "Very long paragraph detected",
+        "Inconsistent bullet point usage",
+        "No professional profile URLs found"
+      ]
+    },
+    "platform_scores": {},
+    "trustworthiness_flags": [
+      "Resume URLs don't match scraped profile URLs"
+    ],
+    "recommendations": [
+      "Resume: Very long paragraph detected",
+      "Resume: Inconsistent bullet point usage",
+      "Resume: No professional profile URLs found",
+      "Trust: Resume URLs don't match scraped profile URLs"
+    ],
+    "overall_score": 80.0,
+    "explanations": {
+      "overall_explanation": "The overall score of 80.0/100 is based on several factors:\n- Resume format score: 80/100\n- No platform scores available (no valid profile URLs found)\n- Trustworthiness flags: 1 issues found\n\nThis is a strong overall score, indicating a well-prepared professional profile.",
+      "resume_explanation": "The resume format score is 80/100.\n\nIssues found:\n- Very long paragraph detected\n- Inconsistent bullet point usage\n- No professional profile URLs found\n\nThe resume format is good but could use some minor improvements.",
+      "platform_explanations": {},
+      "trust_explanation": "The following trustworthiness issues were identified:\n\n- Resume URLs don't match scraped profile URLs\n\nThese issues should be addressed to ensure the credibility of your professional profile."
+    },
+    "raw_data": {
+      "resume_data": {
+        "text": "Aparna Mondal\nData Scientist | Machine Learning & AI | Python, SQL, Scikit-learn | Predictive Modeling \n& Data Analytics\ncontact - 6290305615 maparnafeb14@gmail.com Linkdin APARNA Kolkata, West Bengal, India\nSUMMARY\nPython Developer with hands-on experience in data processing, feature engineering, automation, and machine learning using libraries like Pandas, \nNumPy, and Scikit-learn. Skilled in writing clean, efficient code for real-world data problems and time series forecasting. Strong foundation in data \ncleaning, EDA, and automating workflows with Python.\nINTERNSHIP EXPERIENCE\nData Analyst Intern\nUnified Mentors\n02/2025 - 04/2025\u00a0 Kolkata, India\nTools: Python, Pandas, Scikit-learn, Random Forest, Time Series\nObjective: Uber Trip Forecasting | Time Series Regression\nEngineered 4+ time-series features (lag, rolling mean/std) from NYC 2014 Uber trip dataset.\nReduced RMSE from 14,469 \u2192  9,406 \u2192  578.22 through feature engineering and model tuning.Wrote modular code for feature engineering and \nmodel training (Random Forest, ensemble methods).\nAchieved 133.71% MAPE using Random Forest; evaluated with visual plots and error metrics.Automated evaluation metrics and visualization \nwith matplotlib and seaborn.\nDeveloped Python scripts to preprocess and transform time series data using rolling statistics and lag features.\nSuggested improvements using external data (weather, holidays) and ensemble models (XGBoost).\nMachine Learning Intern\nFeyNN Labs Experiment with Your Knowledge\n01/2025 - 03/2025\u00a0 Kolkata\nAI for Small Businesses - Tools Used: Python, SQL, Pandas, Seaborn, Scikit-learn\n Objective: Analyzed EV market sales trends to identify key factors influencing adoption and customer segmentation.\nCollected and processed real-world EV market data, analyzing 10,000+ records to identify regional sales patterns across different city tiers.\nDeveloped interactive Power BI dashboards, reducing data analysis time by 40% and improving visibility into EV adoption trends across regions.\nBuilt a predictive model using regression techniques, achieving an R\u00b2 score of 0.85, to forecast EV market demand for the next 3 years.\nOptimized SQL queries, reducing data processing time by 40%.\nAchieved 0% accuracy (cross-validation) using Random Forest and XGBoost classifiers on 13-feature dataset of Netflix-style profiles.\nAutomated classification pipeline enables real-time detection of fake accounts, reducing potential manual screening effort by 90%+.\nPROJECTS\nLaptop Price Prediction (Machine Learning Project)\n09/2024 - 12/2024\u00a0 odin school, hyderaba\nDeveloped a machine learning model to predict laptop prices based on technical specifications, improving prediction accuracy by 30% through \nmodel optimization.\nAutomated reporting in Python, reducing manual effort by 50%.Built Python pipelines for data preprocessing, feature selection, and regression \nmodeling.\nPerformed data preprocessing including handling missing values, categorical encoding, and feature engineering to enhance model performance\n \u2014 such as analyzing the impact of CPU/GPU brands and screen resolution on target outcomes.\nWrote reusable functions for price prediction logic and input validation.Built a predictive data models model to estimate laptop prices using \ntechnical specifications.\nSKILLS\nProgramming: SQL Python\nData Analysis & Visualization: Data Integrity Statistics Exploratory Data Analysis Feature Engineering\nMachine Learning & NLP: Predictive Modeling Clustering Regression Classification KNN XGBoost\nML Frameworks & Libraries: Plotly Pandas TensorFlow Keras Numpy Matplotlib Seaborn\nwww.enhancv.com\ue06dP o w er ed b y\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\n\u2022\ue069 q \ue092SKILLS\nCloud & Tools: MySQL Jupyter Notebook pycharm PySpark DAX Google Colab Power Bi\nSoft Skills: Communication Stakeholder Collaboration Problem Solving Critical Thinking\nKEY ACHIEVEMENTS\nUber Forecast Optimization\nOptimized Uber trip forecast, reducing RMSE by 96.01% with \nfeature engineering.Python Reporting Automation\nAutomated data reporting in Python, decreasing manual effort \nby 50%.\nEV Demand Prediction\nImproved EV market demand forecasting with a 0.85 R\u00b2 score \nfor three-year projection.Efficient Data Dashboards\nDeveloped dashboards cutting analysis time by 40% with Power \nBI.\nEDUCATION\nData science Bootcamp\nOdinSchool\n01/2024 - 12/2024\u00a0 Hyderabad,India\nMaster of Mass Communication(MAJMC)\nBhairab Ganguly College (IGNOU)  - 68%\n02/2022 - 11/2024\u00a0 Kolkata, India\nBachelor of Journalism and Mass Communication (JMC)\nVivekananda College, Thakurpukur (University of Calcutta) - 75%\n11/2018 - 06/2021\u00a0 Kolkata, India\nwww.enhancv.com\ue06dP o w er ed b y\ue01c \ue01c\n\ue01c \ue01c",
+        "urls": [],
+        "format_issues": [
+          "Very long paragraph detected",
+          "Inconsistent bullet point usage"
+        ]
+      },
+      "profile_data": []
+    }
+  }
+}

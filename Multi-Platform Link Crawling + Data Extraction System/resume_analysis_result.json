@@ -1,0 +1,113 @@
+{
+  "resume_score": {
+    "score": 95,
+    "deductions": [
+      "Very long paragraph detected"
+    ]
+  },
+  "platform_scores": {
+    "GitHub": {
+      "score": 70,
+      "deductions": [
+        "Low repository count",
+        "Low number of stars"
+      ]
+    },
+    "LinkedIn": {
+      "score": 0,
+      "deductions": [
+        "Incomplete LinkedIn profile",
+        "Limited skill endorsements"
+      ]
+    }
+  },
+  "trustworthiness_flags": [],
+  "recommendations": [
+    "Resume: Very long paragraph detected",
+    "GitHub: Low repository count",
+    "GitHub: Low number of stars",
+    "LinkedIn: Incomplete LinkedIn profile",
+    "LinkedIn: Limited skill endorsements"
+  ],
+  "overall_score": 56.5,
+  "explanations": {
+    "overall_explanation": "Entry-level candidate requiring development",
+    "resume_explanation": "Resume Score: 95/100\n\nAreas for improvement:\n- Very long paragraph detected",
+    "platform_explanations": {
+      "GitHub": "Github (Medium)\nScore: 70/100\n\nDemonstrates strong proficiency",
+      "LinkedIn": "Linkedin (Medium)\nScore: 0/100\n\nNeeds improvement"
+    },
+    "trust_explanation": "No trustworthiness issues identified"
+  },
+  "hr_analysis": {
+    "scores": {
+      "github": 35.0,
+      "leetcode": 0,
+      "certifications": 0,
+      "resume": 80.0,
+      "linkedin": 49.0
+    },
+    "credibility_results": {
+      "github_verification": {
+        "is_valid": false,
+        "source": "github",
+        "details": "Verification failed: Cannot serialize non-str key None",
+        "verification_date": "2025-05-19T12:40:53.174266",
+        "confidence_score": 0.0
+      },
+      "linkedin_verification": {
+        "is_valid": false,
+        "source": "linkedin",
+        "details": "Profile not accessible",
+        "verification_date": "2025-05-19T12:40:54.845946",
+        "confidence_score": 0.0
+      },
+      "certificate_verifications": [],
+      "leetcode_verification": {
+        "is_valid": false,
+        "source": "leetcode",
+        "details": "No LeetCode URL provided",
+        "verification_date": "2025-05-19T12:40:53.052026",
+        "confidence_score": 0.0
+      },
+      "profile_verification": {},
+      "certification_verification": {},
+      "overall_credibility_score": 0.0,
+      "verification_timestamp": "2025-05-19T12:40:54.848126"
+    },
+    "report": "HR DECISION REPORT: Candidate\n        ==================================================\n\n        SCORE BREAKDOWN:\n        \u2022 GITHUB: Limited evidence of practical coding (Score: 35.0/100)\n\u2022 LEETCODE: May need support with complex problems (Score: 0/100)\n\u2022 CERTIFICATIONS: Knowledge gaps may exist (Score: 0/100)\n\u2022 RESUME: Excellent professional presentation (Score: 80.0/100)\n\u2022 LINKEDIN: Limited professional presence (Score: 49.0/100)\n\n        KEY STRENGTHS (Business Impact):\n        \u2713 RESUME: Shows strong communication skills\n\n        CRITICAL WEAKNESSES (Risk Analysis):\n        \u203c\ufe0f LEETCODE: Could require more training time\n\u203c\ufe0f CERTIFICATIONS: May need more structured onboarding\n\u203c\ufe0f GITHUB: May struggle with collaborative development\n\n        PERFORMANCE PREDICTION:\n        Expected to require 6+ months of onboarding and training before\nreaching full productivity. Consider for junior roles.\n\n        RECOMMENDED ACTIONS:\n          Conduct live coding assessment focusing on system architecture and design patterns\n  Include hard (system design) problems in technical screening\n Evaluate LinkedIn profile for profile completeness and basic professional presence\n  Verify fundamental technical knowledge during technical interview\n  Schedule additional technical screening round"
+  },
+  "raw_data": {
+    "resume_data": {
+      "text": "Mrinal Patra \nSoftware Engineer \nI\u2019m excited to dive into real-world projects and bring fresh perspectives to innovative solutions. With a\nstrong foundation in coding, problem-solving, and a love for learning, I\u2019m eager to contribute my skills to\ncreate e\ufb03cient, scalable, and user-friendly software. My adaptability and enthusiasm for technology\ndrive me to stay ahead of the curve and take on challenges with creativity and determination. I\u2019m ready to\ncollaborate, grow, and make an impact in the tech world! \nmrinalpatra34@gmail.com \n6201719598 \nKolkata, India \nlinkedin.com/in/mrinal-patra-553a5a237 \ngithub.com/MrinalPatra \nWORK EXPERIENCE \nEDUCATION \nSecondary Education \nVivekananda Vidya Mandir, Sector-2, Dhurwa,\nRanchi-834004, Jharkhand \n04/2008 - 06/2019\n, \n \n89.8 CGPA \nHigher Secondary Education \nVivekananda Vidya Mandir, Sector-2, Dhurwa,\nRanchi-834004, Jharkhand \n06/2019 - 06/2021\n, \n \n84 \nBachelor of Technology \nSt. Thomas College of Engineering and\nTechnology, 4, Diamond Harbour Rd,\nKhidirpur, Kolkata-700023 \n10/2021 - Present\n, \n \n8.20 \nArti\ufb01cial Intelligence and\nMachine Learning \nSKILLS \nDeep Learning \nPython \nSQL \nMachine Learning \nObject Oriented\nProgramming \nHTML \nCSS \nJavaScript \nReact.js \nData Structure and\nAlgorithms \nAWS \nPERSONAL PROJECTS \nGreen Care (Group Project)\n (02/2024 - 12/2024)\n \nObjective: Crop Prediction, crop disease prediction and a 24/7\nmultilingual chatbot that provides feedback and enables\ninteraction. Technical Details: Google Text-to-Speech, Natural\nLanguage Processing (NLTK and Keras), Streamlit, PyTorch, ReLU,\nTensorFlow, CNN \nWeather Pred\n (02/2023 - 02/2023)\n \nObjective: Live weather forecast around the globe along with\ndetailed information. \nTechnical Details: Tkinter, Python, json \nAI Voice Assistant\n (05/2025 - Present)\n \nObjective: AI Voice assistant using Grok llm, Google TTS and\nWhisper AI. Real time interaction and multilingual translation using\nAPI. \nLANGUAGES \nEnglish \nFull Professional Pro\ufb01ciency \nHindi \nNative or Bilingual Pro\ufb01ciency \nBengali \nFull Professional Pro\ufb01ciency \nINTERESTS \nExploring New Technologies \nListening to Music \nSketching \nCourses \n",
+      "urls": [
+        "https://github.com/MrinalPatra",
+        "https://linkedin.com/in/mrinal-patra-553a5a237"
+      ],
+      "format_issues": [
+        "Very long paragraph detected"
+      ]
+    },
+    "profile_data": [
+      {
+        "platform": "GitHub",
+        "url": "https://github.com/MrinalPatra",
+        "metrics": {
+          "repos_count": null,
+          "stars": null,
+          "followers": null,
+          "contributions": null
+        }
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/mrinal-patra-553a5a237",
+        "metrics": {
+          "profile_completeness": 0,
+          "connection_count": null,
+          "endorsements": {}
+        }
+      }
+    ]
+  }
+}
